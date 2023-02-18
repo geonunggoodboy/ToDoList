@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="enter_your_to_do_item_here">Enter your To-Do item here</string>
+</resources>
